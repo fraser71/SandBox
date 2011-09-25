@@ -1,5 +1,5 @@
 line 1
-line 2 ++
-line 3 changes
+line 2 +++
+line 3 changes more more more
 line 4
 
